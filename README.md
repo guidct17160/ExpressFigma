@@ -1,5 +1,5 @@
 # ExpressFigma
-ผมทำเป็น Figma แอพขนส่งพัสดุ ซึ่งมีข้อมูลเยอะมาก นี่คือตัวอย่างคร่าวๆใน Readme 
+ผมทำเป็น Figma แอพขนส่งพัสดุ ซึ่งมีข้อมูลเยอะมาก นี่คือตัวอย่างคร่าวๆใน Readme <br>
 Link Figma : https://www.figma.com/design/Y8JhH0AejPzWxg8QcIK4PT/02.-LaundroMate-Laundry-Express-mobile-application-UI--Community-?node-id=0-1&p=f&t=WJ1T9NyjnQ48VkaU-0<br>
 <h1>ตัวอย่าง<br>
 <img width="404" height="825" alt="image" src="https://github.com/user-attachments/assets/00905fdf-c628-4e6a-b8f8-36463e0d534a" />
